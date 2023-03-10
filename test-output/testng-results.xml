@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T18:46:10 IST" name="Default suite" finished-at="2023-03-08T18:46:15 IST" duration-ms="4684">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T18:46:10 IST" name="Default test" finished-at="2023-03-08T18:46:15 IST" duration-ms="4684">
+      <class name="libraryAPI.LibraryApi">
+        <test-method signature="LibraryEndtoEndTest()[pri:0, instance:libraryAPI.LibraryApi@1a482e36]" started-at="2023-03-08T18:46:10 IST" name="LibraryEndtoEndTest" finished-at="2023-03-08T18:46:15 IST" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LibraryEndtoEndTest -->
+      </class> <!-- libraryAPI.LibraryApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
